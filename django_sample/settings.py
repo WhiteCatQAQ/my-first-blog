@@ -25,7 +25,7 @@ SECRET_KEY = 'ab-f*n85!)@#*(p-=a3bm)$f^8(+t(#x@tskzyqhpxcy(b(b=x'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
